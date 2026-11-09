@@ -1,0 +1,12 @@
+{
+  "format": "navi-chip/1",
+  "name": "Oracle Nior",
+  "description": "Navi reads your fortune in coffee grounds, noir detective style. One line in, one reading out.",
+  "version": "0.1.0",
+  "entry": "root.py",
+  "files": [
+    "root.py"
+  ],
+  "output": "",
+  "generatedBy": "Apex \u2014 Chip Studio chip export"
+}
